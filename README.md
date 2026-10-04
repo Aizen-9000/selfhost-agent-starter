@@ -2,7 +2,10 @@
 
 A small Next.js app with a tool-calling agent loop. It runs on a local model through [Ollama](https://ollama.com) by default, so no API key is needed and nothing leaves your machine. To use a hosted model instead, bring your own key for any OpenAI-compatible API by changing three environment variables.
 
-<!-- Add a demo GIF here: docs/demo.gif -->
+
+https://github.com/user-attachments/assets/6c79ea50-1acf-4a97-87dc-df626502cc2d
+
+
 
 ## Why this exists
 
