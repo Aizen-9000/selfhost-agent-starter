@@ -43,7 +43,7 @@ Edit `.env.local` and set `LLM_BASE_URL`, `LLM_MODEL` and `LLM_API_KEY`. Example
 | Streaming, persistent memory, Docker setup | No | Planned |
 | Approval step for risky tools, login, rate limiting | No | Planned |
 
-Pro is not released yet. Watch this repository (Releases only) to be notified when it launches.
+Pro link - https://majiwave3.gumroad.com/l/ycoiah
 
 ## Before you put it on the internet
 
